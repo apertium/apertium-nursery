@@ -150,3 +150,7 @@
 	path = apertium-eng-hin
 	url = git@github.com:apertium/apertium-eng-hin.git
 	branch = master
+[submodule "apertium-fin-eng"]
+	path = apertium-fin-eng
+	url = git@github.com:apertium/apertium-fin-eng.git
+	branch = master
