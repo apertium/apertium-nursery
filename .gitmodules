@@ -18,10 +18,6 @@
 	path = apertium-hbs-rus
 	url = git@github.com:apertium/apertium-hbs-rus.git
 	branch = master
-[submodule "apertium-fin-eng"]
-	path = apertium-fin-eng
-	url = git@github.com:apertium/apertium-fin-eng.git
-	branch = master
 [submodule "apertium-fr-it"]
 	path = apertium-fr-it
 	url = git@github.com:apertium/apertium-fr-it.git
