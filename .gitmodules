@@ -10,10 +10,6 @@
 	path = apertium-slv-spa
 	url = git@github.com:apertium/apertium-slv-spa.git
 	branch = master
-[submodule "apertium-ca-ro"]
-	path = apertium-ca-ro
-	url = git@github.com:apertium/apertium-ca-ro.git
-	branch = master
 [submodule "apertium-hbs-rus"]
 	path = apertium-hbs-rus
 	url = git@github.com:apertium/apertium-hbs-rus.git
@@ -153,4 +149,8 @@
 [submodule "apertium-pol-ukr"]
 	path = apertium-pol-ukr
 	url = git@github.com:apertium/apertium-pol-ukr.git
+	branch = master
+[submodule "apertium-ron-cat"]
+	path = apertium-ron-cat
+	url = git@github.com:apertium/apertium-ron-cat.git
 	branch = master
