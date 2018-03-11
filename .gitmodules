@@ -98,10 +98,6 @@
 	path = apertium-es-ssp
 	url = git@github.com:apertium/apertium-es-ssp.git
 	branch = master
-[submodule "apertium-fo-is"]
-	path = apertium-fo-is
-	url = git@github.com:apertium/apertium-fo-is.git
-	branch = master
 [submodule "apertium-tat-rus"]
 	path = apertium-tat-rus
 	url = git@github.com:apertium/apertium-tat-rus.git
@@ -153,4 +149,8 @@
 [submodule "apertium-ron-cat"]
 	path = apertium-ron-cat
 	url = git@github.com:apertium/apertium-ron-cat.git
+	branch = master
+[submodule "apertium-fao-isl"]
+	path = apertium-fao-isl
+	url = git@github.com:apertium/apertium-fao-isl.git
 	branch = master
