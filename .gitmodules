@@ -154,3 +154,7 @@
 	path = apertium-fao-isl
 	url = git@github.com:apertium/apertium-fao-isl.git
 	branch = master
+[submodule "apertium-fin-deu"]
+	path = apertium-fin-deu
+	url = git@github.com:apertium/apertium-fin-deu.git
+	branch = master
