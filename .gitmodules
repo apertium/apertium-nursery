@@ -146,10 +146,6 @@
 	path = apertium-pol-ukr
 	url = git@github.com:apertium/apertium-pol-ukr.git
 	branch = master
-[submodule "apertium-ron-cat"]
-	path = apertium-ron-cat
-	url = git@github.com:apertium/apertium-ron-cat.git
-	branch = master
 [submodule "apertium-fao-isl"]
 	path = apertium-fao-isl
 	url = git@github.com:apertium/apertium-fao-isl.git
