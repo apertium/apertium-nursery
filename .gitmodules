@@ -102,10 +102,6 @@
 	path = apertium-tat-rus
 	url = git@github.com:apertium/apertium-tat-rus.git
 	branch = master
-[submodule "apertium-tuk-tur"]
-	path = apertium-tuk-tur
-	url = git@github.com:apertium/apertium-tuk-tur.git
-	branch = master
 [submodule "apertium-es-cs"]
 	path = apertium-es-cs
 	url = git@github.com:apertium/apertium-es-cs.git
